@@ -9,6 +9,15 @@ body {
     font-family: 'Comic Sans MS';
     font: 'Comic Sans';
 }
+p {
+  animation: color-change 2s infinite;
+}
+
+@keyframes color-change {
+  0% { color: #cd0d66; }
+  50% { color: blue; }
+  100% { color: #cd0d66; }
+}
 .blur {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
