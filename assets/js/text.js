@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["04.02 🎁", "🅿︎🆈︎🆃︎🅷︎🅾︎🅽︎ Developer","17 y.o","191cm","he/him" ],
+        strings: ["04.02 🎁", "🅿︎🆈︎🆃︎🅷︎🅾︎🅽︎ Developer","17 y.o","194cm","he/him","Direct Manager" ],
         typeSpeed: 45,
         backSpeed: 0,
         cursorChar: ['❚'],
